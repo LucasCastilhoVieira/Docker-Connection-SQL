@@ -1,0 +1,1 @@
+This is a file that you can use to up a new connection between docker and mysql, just add in your project and execute with 'docker compose -f docker-compose.yml up --build'. Before, you need to have downloaded the docker in your computer.
